@@ -11,7 +11,7 @@ export const allProjects = [
       name: "Movie IMDB",
       category: ["react", "api"],
       p: "this app for IMDB Movis inforamtion and reviews.",
-      imgPath: "ToDoList React/images/Movies-react.png",
+      imgPath: "/images/Movies-react.png",
       linkProd:"https://moviesappimdb.pages.dev/",
       linkGithub:"https://github.com/youssefelaalem/moviesApp"
     },
