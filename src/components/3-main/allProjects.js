@@ -1,9 +1,11 @@
 export const allProjects = [
     {
-      name: "Weather App",
-      category: ["react", "api"],
-      p: "this app to know about weather of any city in the world.",
-      imgPath: "/images/weatherapp.png",
+      name: "blog",
+      category: ["html", "css","js"],
+      p: "this web site is static blod ",
+      imgPath: "/public/images/Screenshot 2024-08-27 165253.png",
+       linkProd:"https://redyouseff.github.io/blog/#",
+      linkGithub:"https://github.com/redyouseff/blog"
     },
     {
       name: "Movie IMDB",
@@ -14,10 +16,20 @@ export const allProjects = [
       linkGithub:"https://github.com/youssefelaalem/moviesApp"
     },
     {
+      name: "show me",
+      category: ["css"],
+      p: "This portfolio",
+      imgPath: "/public/images/Screenshot 2024-08-27 165824.png",
+       linkProd:"https://redyouseff.github.io/portfolio/",
+      linkGithub:"https://github.com/redyouseff/portfolio"
+    },
+    {
       name: "Notes App",
       category: ["js","css"],
       p: "This app for notes and it will save your note on local storage.",
       imgPath: "/images/notes-js.png",
+       linkProd:"https://todolistapp-4ku.pages.dev/",
+      linkGithub:"https://github.com/redyouseff/datareminfer2"
     },
     {
       name: "ToDoList React",
@@ -25,18 +37,32 @@ export const allProjects = [
       p: "This is a Todo list app by Redux ToolKit, where you can add tasks and mark them as completed or delete them.",
       imgPath: "/images/TodoList React.png",
       linkProd:"https://todolistapp-4ku.pages.dev/",
-      linkGithub:"https://github.com/youssefelaalem/ToDoListApp"
+      linkGithub:"https://github.com/redyouseff/datareminfer2"
     },
     {
-      name: "portoflio-css",
-      category: ["css"],
-      p: "This app perfect portoflio by CSS and HTML and JavaScript it include some animations",
-      imgPath: "/images/portfolio-css.png",
+      name: "menu",
+      category: ["css","js","react"],
+      p: "This app perfect to show the menu of the resurant ",
+      imgPath: "/public/images/Screenshot 2024-08-27 165616.png",
+      linkProd:"https://menu-alpha-ten.vercel.app/",
+      linkGithub:"https://github.com/redyouseff/menu-"
     },
     {
-      name: "css",
-      category: ["css"],
-      p: "This app perfect portoflio by CSS and HTML only",
-      imgPath: "/images/css.png",
+      name: "lobrary system",
+      category: ["css","js","react"],
+      p: "This is a system of library manage every thing ",
+      imgPath: "/public/images/Screenshot 2024-08-27 171550.png",
+      linkProd:"https://library-react2.vercel.app/",
+      linkGithub:"https://github.com/redyouseff/menu-"
+    },
+    {
+      name: "dashbord",
+      category: ["css","html","js"],
+      p: "admin dashbord",
+      imgPath: "/public/images/Screenshot 2024-08-27 170818.png",
+        linkProd:"https://redyouseff.github.io/dashbord/",
+      linkGithub:"https://github.com/redyouseff/menu-"
+    
     },
   ];
+  

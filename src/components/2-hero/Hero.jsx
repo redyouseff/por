@@ -15,7 +15,7 @@ function Hero() {
             initial={{ transform: "scale(0)" }}
             animate={{ transform: "scale(1.1)" }}
             transition={{ damping: 6, type: "spring", stiffness: 100 }}
-            src="/public/images/c6e42ba5-3327-4f39-8101-09e299a35c0a.jpg"
+            src="/public/images/4e9f104b-f711-4eaf-a4a0-e6bf8d779786.jpg"
             alt="imagePortfolio"
           />
           <div className="icon-verified"></div>
@@ -26,7 +26,7 @@ function Hero() {
           transition={{ duration: 1 }}
           className="title"
         >
-          Software Engineer,founder, and amateur astronaut.
+          yousef , Software Engineer,founder, and amateur astronaut.
         </motion.h1>
         <p className="subtitle">
         Dedicated Software Engineer with over one year of expertise in Front-End Development using React.js and nearly two
