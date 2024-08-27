@@ -11,13 +11,13 @@ function Hero() {
     <section className="flex hero">
       <div className="left-section">
         <div className="parent-avatar flex">
-          {/* <motion.img
+          <motion.img
             initial={{ transform: "scale(0)" }}
             animate={{ transform: "scale(1.1)" }}
             transition={{ damping: 6, type: "spring", stiffness: 100 }}
-            src="/public/images/4e9f104b-f711-4eaf-a4a0-e6bf8d779786.jpg"
+            src="/images/4e9f104b-f711-4eaf-a4a0-e6bf8d779786.jpg"
             alt="imagePortfolio"
-          /> */}
+          />
           <div className="icon-verified"></div>
         </div>
         <motion.h1

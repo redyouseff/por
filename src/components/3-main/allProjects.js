@@ -3,7 +3,7 @@ export const allProjects = [
       name: "blog",
       category: ["html", "css","js"],
       p: "this web site is static blod ",
-      imgPath: "/public/images/Screenshot 2024-08-27 165253.png",
+      imgPath: "/images/Screenshot 2024-08-27 165253.png",
        linkProd:"https://redyouseff.github.io/blog/#",
       linkGithub:"https://github.com/redyouseff/blog"
     },
@@ -43,7 +43,7 @@ export const allProjects = [
       name: "menu",
       category: ["css","js","react"],
       p: "This app perfect to show the menu of the resurant ",
-      imgPath: "/public/images/Screenshot 2024-08-27 165616.png",
+      imgPath: "/images/Screenshot 2024-08-27 165616.png",
       linkProd:"https://menu-alpha-ten.vercel.app/",
       linkGithub:"https://github.com/redyouseff/menu-"
     },
@@ -51,7 +51,7 @@ export const allProjects = [
       name: "lobrary system",
       category: ["css","js","react"],
       p: "This is a system of library manage every thing ",
-      imgPath: "/public/images/Screenshot 2024-08-27 171550.png",
+      imgPath: "/images/Screenshot 2024-08-27 171550.png",
       linkProd:"https://library-react2.vercel.app/",
       linkGithub:"https://github.com/redyouseff/menu-"
     },
@@ -59,7 +59,7 @@ export const allProjects = [
       name: "dashbord",
       category: ["css","html","js"],
       p: "admin dashbord",
-      imgPath: "/public/images/Screenshot 2024-08-27 170818.png",
+      imgPath: "/images/Screenshot 2024-08-27 170818.png",
         linkProd:"https://redyouseff.github.io/dashbord/",
       linkGithub:"https://github.com/redyouseff/menu-"
     
