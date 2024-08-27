@@ -24,12 +24,12 @@ export const allProjects = [
       linkGithub:"https://github.com/redyouseff/portfolio"
     },
     {
-      name: "Notes App",
+      name: "tourist blog",
       category: ["js","css"],
       p: "This app for notes and it will save your note on local storage.",
-      imgPath: "/images/notes-js.png",
-       linkProd:"https://todolistapp-4ku.pages.dev/",
-      linkGithub:"https://github.com/redyouseff/datareminfer2"
+      imgPath: "/images/Screenshot 2024-08-27 182430.png",
+       linkProd:"https://redyouseff.github.io/tourist-/",
+      linkGithub:"https://github.com/redyouseff/tourist-"
     },
     {
       name: "ToDoList React",
