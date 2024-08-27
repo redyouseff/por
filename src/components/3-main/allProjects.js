@@ -11,7 +11,7 @@ export const allProjects = [
       name: "Movie IMDB",
       category: ["react", "api"],
       p: "this app for IMDB Movis inforamtion and reviews.",
-      imgPath: "/images/Movies-react.png",
+      imgPath: "ToDoList React/images/Movies-react.png",
       linkProd:"https://moviesappimdb.pages.dev/",
       linkGithub:"https://github.com/youssefelaalem/moviesApp"
     },
@@ -32,11 +32,11 @@ export const allProjects = [
       linkGithub:"https://github.com/redyouseff/tourist-"
     },
     {
-      name: "ToDoList React",
-      category: ["react"],
-      p: "This is a Todo list app by Redux ToolKit, where you can add tasks and mark them as completed or delete them.",
+      name: "web login",
+      category: ["html","css","js"],
+      p: "This web login web build by html css and js ",
       imgPath: "/images/TodoList React.png",
-      linkProd:"https://todolistapp-4ku.pages.dev/",
+      linkProd:"https://redyouseff.github.io/log-in/",
       linkGithub:"https://github.com/redyouseff/datareminfer2"
     },
     {
