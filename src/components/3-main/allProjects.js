@@ -19,7 +19,7 @@ export const allProjects = [
       name: "show me",
       category: ["css"],
       p: "This portfolio",
-      imgPath: "/public/images/vitaly-gariev-3DN7VYRgyNk-unsplash.jpg",
+      imgPath: "/images/vitaly-gariev-3DN7VYRgyNk-unsplash.jpg",
        linkProd:"https://redyouseff.github.io/portfolio/",
       linkGithub:"https://github.com/redyouseff/portfolio"
     },
